@@ -5,7 +5,9 @@
 - 💬 Ask me about our [hackweek program](https://escience.washington.edu/using-data-science/hackweeks/)!
 - 📫 How to reach me: [arendta@uw.edu](mailto:arendta@uw.edu)
 - 😄 Pronouns: he/him
-  
+
+  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaarendt)](https://github.com/aaarendt/github-readme-stats)
+
 <!--
 **aaarendt/aaarendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
