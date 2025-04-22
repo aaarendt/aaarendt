@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building data systems to support the [NASA SnowEx](https://snow.nasa.gov/campaigns/snowex) program.
+- 🌱 I’m currently learning [SQLModel](https://sqlmodel.tiangolo.com/).
+- 💬 Ask me about our [hackweek program](https://escience.washington.edu/using-data-science/hackweeks/)!
+- 📫 How to reach me: [arendta@uw.edu](mailto:arendta@uw.edu)
+- 😄 Pronouns: he/him
+  
 <!--
 **aaarendt/aaarendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
