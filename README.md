@@ -6,7 +6,7 @@
 - 📫 How to reach me: [arendta@uw.edu](mailto:arendta@uw.edu)
 - 😄 Pronouns: he/him
 
-  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaarendt)](https://github.com/aaarendt/github-readme-stats)
+  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaarendt)](https://github.com/aaarendt/github-readme-stats-fast)
 
 <!--
 **aaarendt/aaarendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
